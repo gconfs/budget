@@ -95,6 +95,81 @@ Lorem ipsum dolor sit amet
 
 # Ressources nécessaires
 
+## Frais d'expansion
+
+### Introduction
+
+Les frais d'expansion correspondent à l'ensemble des frais nécessaires pour se
+procurer de nouvelles ressources (nouvelles machines, commandes de tee-shirts,
+organisation d'évènements type barbecue, etc...).
+
+Ces frais, bien que non indispensables à la survie de l'association, sont
+nécessaires à son dynamisme : améliorer ses activités, amener de nouveaux
+membres, etc...
+
+Pour cette demande de budget, ils se limiteront à une commande de tee-shirts
+pour les membres actifs de l'association.
+
+### Tee-shirts
+
+Actuellement, l'association ne bénéficie d'aucune mise en valeur "visible de
+l'extérieur", que ce soit locaux, tee-shirts, ou autre.
+
+Une commande de tee-shirt viserait trois types de personnes :
+* Les extérieurs
+* Les conférenciers internes à l'association
+* Les membres du bureau
+
+#### Extérieurs
+
+Un des objectifs de l'association, qui n'est pour l'instant pas vraiment
+réalisé, est de faire venir des conférenciers extérieurs à l'école, afin de
+proposer des conférences toujours plus enrichissantes et tournées vers d'autres
+sujets que ceux habituellement abordés et qui répondent la plupart du temps à
+des besoins par rapport au cursus d'Epita.
+
+Ainsi, faire venir des intervenants extérieurs permettrait de proposer un
+meilleur contenu, ainsi que d'intéresser un plus large public (autres écoles
+d'Ionis, voir personnes extérieures à l'école).
+
+Une manière de gratifier ces intervenants pour peu de frais serait de
+simplement leur offrir un tee-shirt ou une chemise GConfs, ce qui permettrait
+en plus de promouvoir l'association à l'éxterieur lorsque ces dits extérieurs
+les porteraient.
+
+#### Conférenciers internes à l'association
+
+Les conférenciers membres de l'association composent la majeure partie des
+personnes destinées à recevoir les tee-shirts GConfs. En effet, les conférences
+sont souvent suivies de TPs.
+
+Ces TPs regroupent en général de nombreuses personnes :
+Récemment :
+300 élèves d'Info-Sup
++ 15 membres de l'association dont 5 conférenciers
++ 35 divers (membres VJN suite à un partenariat, autres promotions, etc...)
+Pour un total d'environ 400 personnes.
+
+Parmis ces nombreuses personnes, il est la plupart du temps difficile pour les
+gens effectuant le TP de dicerner les membres de l'association qui sont là pour
+les assister. Des tee-shirts seraient une manière simple et efficace de palier
+à ce problème, tout en gratifiant les conférenciers présents.
+
+#### Membres du bureau
+
+Enfin, dernier public visé par une distribution de tee-shirts : les membres du
+bureau (6 personnes).
+
+En effet, ceux ci sont bien souvent présents lors des conférences et TPs
+associés, et sont donc concernés directement par la situation des conférenciers
+précédement expliquée.
+
+De plus, ce sont bien souvent eux qui sont présents pour représenter
+l'association (exemple : forum des association les 13 Octobre 2012), porter de
+simples tee-shirts permettrait très simplement de mieux les repérer et de
+mettre en valeur l'association.
+
+## Frais fixes
 Expliquer que pour atteindre les objectifs annoncés, l'association a besoin des
 ressources suivantes:
 
