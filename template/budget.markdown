@@ -30,9 +30,6 @@ Décrire ce qui a été fait jusqu'à présent:
     - Forum des associations
     - JPO
 
-Il faut montrer que l'association est active et s'inscrit dans la vie
-associative de l'école.
-
 L'association, inactive depuis plusieurs mois, a été redémarrée en septembre
 2012. Depuis, elle se présente avec un objectif double:
 
@@ -49,15 +46,29 @@ L'association, inactive depuis plusieurs mois, a été redémarrée en septembre
 
 ### Évènements organisés
 
-Lorem ipsum dolor sit amet
+Depuis Septembre 2012, les conférences suivantes ont été organisés:
+
+* 10 Octobre 2012: Codage habile avec Emacs
+* 11 Octobre 2012: Ergonomic editing with Vim
+* 19 Octobre 2012: Introduction au C#
+* 9 Novembre 2012: Bien démarrer son projet
+
+De plus, l'association a collaboré avec l'administration de l'EPITA sur les
+projets suivants:
+
+* 1 et 8 Octobre 2012: Encadrement de la présentation des projets de première
+  année
+* Du 8 au 12 Octobre 2012: Installation des projets de première année sur racks
+  dans le cadre de la JPO du 13 Octobre 2012
+* 7 et 8 Octobre 2012: Organisation d'un atelier d'initiation à la
+  programmation pour lycées dans le cadre des JDMI
+* 13 Octobre 2012: Participation au forum des associations
+
+Enfin, l'association a mis en place une FAQ EPITA pour les élèves de l'école
+visant à remplacer l'ancienne, dernièrement mise à jour en 2003. La FAQ est
+actuellement disponible sur :`http://faq.gconfs.fr`
 
 ### Activités d'expansion
-
-Lorem ipsum dolor sit amet
-
-### Participation à la vie associative
-
-Lorem ipsum dolor sit amet
 
 \newpage
 
