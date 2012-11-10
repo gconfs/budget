@@ -1,13 +1,20 @@
 % Dossier de demande de budget
-% Association XXX
+% Association GConfs
+
+![logo](gconfs.png)\
 
 \newpage
 
 # Situation actuelle
 
-## L'association XXX
+## L'association GConfs
 
-Présenter l'association, son but et sa composition.
+GConfs est une association ayant pour but de mettre à la disposition de tous
+des informations concernant le monde de l'informatique. Pour cela,
+l'asosciation organise régulièrement des conférences, assurées par ses membres
+ainsi que par des inervenants extérieurs, sur des thèmes techniques ou sur le
+monde du travail. D'autre part, des publications sous forme de tutoriaux sont
+disponibles sur le site internet de l'association.
 
 ## Compte rendu des actions passées
 
@@ -25,6 +32,20 @@ Décrire ce qui a été fait jusqu'à présent:
 
 Il faut montrer que l'association est active et s'inscrit dans la vie
 associative de l'école.
+
+L'association, inactive depuis plusieurs mois, a été redémarrée en septembre
+2012. Depuis, elle se présente avec un objectif double:
+
+* Dans un premier temps, organiser régulièrement des conférences ouvertes sur
+  le thème de l'informatique par des membres de l'association ou des
+  intervenants extérieures.
+
+* De plus, fournir aux élèves extérieurs à l'association les moyens logistiques
+  afin qu'ils présentent leur propres conférences. Parmi les services proposés
+  par l'association, on retrouve notamment la réservation et la préparation
+  d'une salle, la communication autour de la conférence, ainsi que
+  l'enregistrement et la rediffusion de celle-ci.
+
 
 ### Évènements organisés
 
@@ -94,14 +115,13 @@ Lorem ipsum dolor sit amet
 
 # Récapitulatif
 
-Tableau récapitulatif des dépenses à effectuer ce semestre.
-
-
-Matériel     Prix       Quantité    Total
+Ressources  Prix       Quantité    Total
 ----        ----        -----       ---
-T shirts    20          5           100
-HDD 2To     50          2           100
+NDD         8           1           8
+Hébergement 18          12          216
+T-shirts    20          40          800
+Provisions  200         1           200
 ----        -----       -----       ---
 
-Total: 200€
+Total: 1224€
 
