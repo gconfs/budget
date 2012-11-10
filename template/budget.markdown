@@ -158,15 +158,89 @@ l'association (exemple : forum des association les 13 Octobre 2012), porter de
 simples tee-shirts permettrait très simplement de mieux les repérer et de
 mettre en valeur l'association.
 
-## Frais fixes
-Expliquer que pour atteindre les objectifs annoncés, l'association a besoin des
-ressources suivantes:
+### Conclusion
 
-* frais fixes: ce sont les frais d'entretiens stables sur chaque semestre
-  (hébergement d'un serveur, entretien du matériel, réapprovisionnement...)
-* frais d'expansion: les frais nécessaires pour se procurer les nouvelles
-  ressources (nouvelles machines, commande de t shirts, aménagement du
-  local...)
+Pour résumer ces frais d'expansion, il suffit de regarder les choses telles
+qu'elles sont à l'heure actuelle : GConfs est en pleine extension, le bureau à
+été renouvelé pour être plus dynamique est impliqués, les conférences se font
+plus nombreuses et plus conséquentes que les années précédentes.
+
+Afin de continuer cette extension et dans un but de toujours procurer de
+meilleures conditions à nos conférenciers, de simples tee-shirts seraient les
+bienvenus pour le moment. Ces frais ont pour but d'être un investissement sur
+le futur de l'association.
+
+## Frais fixes
+
+#### Introduction
+
+Les frais fixes comprenennt tous les frais d'entretiens stables sur chaque
+semestre (hébergement de serveur, nom de domaine, entretien du matériel,
+réapprovisionnement, ...).
+
+Ces frais sont, de manière inévitable, nécessaires à la perennité de
+l'association : ils visent à couvrir des dépenses engendrées par des choses
+déjà en place et qui ne pourront pas continuer sans cet approvisionnement.
+
+Pour cette année, ces frais fixes ne concerneront que le nom de domaine et les
+frais d'hébergement d'un serveur.
+
+#### Nom de domaine
+
+Actuellement, les frais liés au nom de domaine (gconfs.fr) sont couverts par le
+président de l'association (Kévin Sztern).
+
+Afin de lever toute charge personnelle de ces frais, il est nécessaire que ceux
+ci soient inclus dans le budget global de l'association. Cela permettra, outre
+le fait de supprimer des frais à un membre de l'association qui n'a normalement
+rien à payer personnellement, de s'assurer qu'ils seront toujours payés pour
+les années à venir.
+
+A l'heure actuelle, les frais liés au nom de domaine sont de 8€ par an, et ne
+devraient pas aumgnenter (ou du moins de manière insignifiante) dans les années
+à venir.
+
+#### Hébergement d'un serveur
+
+Les frais liés à l'hébergement d'un serveur sont des frais mensuels et
+indispensables à la survie de celui-ci. Actuellement, la partie hébergement
+concerne l'hébergement de notre site web, de notre comptabilité, de la FAQ
+Epita, ainsi que des supports de conférence, comme expliqué précédemment lors
+de la partie "activité d'expansion".
+
+Cependant, cette situation pose à l'heure actuelle de nombreux problèmes et
+n'est définitivement pas viable à long terme.
+En effet, ce serveur contient toutes les données importantes et utiles à
+l'association, et doit donc pouvoir être transmis de bureau en bureau au fil et
+à mesure des années sans aucun problème ainsi que d'assurer une stabilité sans
+faille.
+
+Après avoir étudié les spécifications (charge supportée notamment) requises par
+rapport au nombre de visites de notre site web ainsi que du nombre de documents
+hébergés, il s'est avéré que ni la solution actuelle, ni la solution proposée
+par 3IE (qui nous proposait un serveur virtuel et non dédié) ne conviennent aux
+besoins actuels, et encore moins à ceux à venir.
+
+C'est pourquoi nous nous sommes tournés vers un hébergement externe, sur un
+serveur dédié, qui possède le seul et unique défaut d'avoir un coût non
+négligeable.
+Suite aux calculs de spécifications requises précédement évoqués, et à une
+étude approfondie des différentes solutions actuellement sur le marché, nous
+estimons que les coûts liés à cet hébergement serait d'environ 18€ TTC par mois
+
+Pour plus de précisions, nous nous tournerions vers un hébergement auprès de
+la compagnie OVH, de type Kimsufi KS2G dont vous pouvez retrouver toutes les
+spécification à l'adresse suivante : http://www.kimsufi.com/fr/.
+
+### Conclusion
+
+Pour conclure sur ces frais fixes, il est important de noter que ces frais sont
+les plus critiaques pour notre association : s'il ne sont pas subvenus,
+l'association pourrait perdre son principal moyen de communication (site web)
+ainsi que de mise en commun de ses documents importants.
+
+## Frais de provisions
+
 * provisions: estimation des dépenses à effectuer au cours du semestre pour
   assurer le déroulement des activités (location temporaire de matériel,
   recrutement d'extérieurs pour un évènement, frais de déplacement pour des
@@ -174,17 +248,6 @@ ressources suivantes:
 
 Sans surprise, chaque dépense doit être pertinente et justifiée.
 
-### Frais fixes
-
-Lorem ipsum dolor sit amet
-
-### Frais d'expansion
-
-Lorem ipsum dolor sit amet
-
-### Provisions
-
-Lorem ipsum dolor sit amet
 
 \newpage
 
