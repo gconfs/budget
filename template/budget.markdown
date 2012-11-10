@@ -30,9 +30,6 @@ Décrire ce qui a été fait jusqu'à présent:
     - Forum des associations
     - JPO
 
-Il faut montrer que l'association est active et s'inscrit dans la vie
-associative de l'école.
-
 L'association, inactive depuis plusieurs mois, a été redémarrée en septembre
 2012. Depuis, elle se présente avec un objectif double:
 
@@ -49,15 +46,81 @@ L'association, inactive depuis plusieurs mois, a été redémarrée en septembre
 
 ### Évènements organisés
 
-Lorem ipsum dolor sit amet
+Depuis Septembre 2012, les conférences suivantes ont été organisés:
+
+* 10 Octobre 2012: Codage habile avec Emacs (80 personnes)
+* 11 Octobre 2012: Ergonomic editing with Vim (80 personnes)
+* 19 Octobre 2012: Introduction au C# (300 personnes)
+* 9 Novembre 2012: Bien démarrer son projet (300 personnes)
+
+De plus, l'association a collaboré avec l'administration de l'EPITA sur les
+projets suivants:
+
+* 1 et 8 Octobre 2012: Encadrement de la présentation des projets de première
+  année
+* Du 8 au 12 Octobre 2012: Installation des projets de première année sur racks
+  dans le cadre de la JPO du 13 Octobre 2012
+* 7 et 8 Octobre 2012: Organisation d'un atelier d'initiation à la
+  programmation pour lycées dans le cadre des JDMI
+* 13 Octobre 2012: Participation au forum des associations
+
+Enfin, l'association a mis en place une FAQ EPITA pour les élèves de l'école
+visant à remplacer l'ancienne, dernièrement mise à jour en 2003. La FAQ est
+actuellement disponible sur :`http://faq.gconfs.fr`
 
 ### Activités d'expansion
 
-Lorem ipsum dolor sit amet
+#### Bitbucket
 
-### Participation à la vie associative
+Lors de la reprise de l'association, le travail des bureaux précédents a été
+perdu et le nouveau bureau a du repartir de rien sur tous les aspects. En
+effet, le travail précédent était auto hébergé par les précédents membres, et
+les supports de travail transitionnaient de manière privée par mail. Afin de
+de centraliser ces informations, et de permettre une capitalisation des acquis
+pour les bureaux futurs, l'association a grandement travaillé sur la mise en
+place d'un espace de travail public où sont hébergés les supports des
+conférences, les squelettes de documents administratifs, les sources de la FAQ
+ainsi que du site web, contenant notamment tous les compte-rendus et procès
+verbaux de l'association. Cet espace est hébergé gratuitement sur un compte
+bitbucket public, à l'addresse suivante: `https://bitbucket.org/gconfs`.
+Cependant, il est important de noter que si bitbucket peut fournir un
+hébergement de documents et de sources, il ne permet néanmoins pas d'héberger
+la mise en place de ces ressources. Le site web, la FAQ et les supports de
+conférences doivent donc être hébergés sur un serveur dédié externe.
 
-Lorem ipsum dolor sit amet
+#### Partenariats\
+
+Afin de s'inscrire durablement dans la vie associative de l'école,
+l'association a commencé la mise en place de partenariats avec de nombreuses
+entités de l'EPITA.
+
+Les partenariats suivants ont été mis en place:
+
+* Équipe ACU: une collaboration a été mise en place afin d'offrir aux ing1 un
+  support pédagogique supplémentaire sous forme de conférences. Ces conférences
+  sont rédigées avec les assistants, annoncées sur l'intranet et inscrites dans
+  l'emploi du temps des ing1.
+
+* VJN: Un partenariat a été établi avec l'association VJN, qui sera présente
+  lors de toutes les conférences se déroulant sur le site de Villejuif pour
+  proposer de la nourriture et des boissons aux élèves assistant aux
+  conférences.
+
+Les partenariats suivants sont en cours d'étude:
+
+* Équipe ACDC: les assistants pour les premières années offrent actuellement
+  leur soutien pour l'encadrement des ateliers suivant les conférences
+  destinées aux premières années. Ce soutien est volontaire, mais est une aide
+  précieuse pour le bon déroulement de ces ateliers. L'association souhaiterait
+  officialiser cette collaboration afin que les ACDCs décidant d'encadrer les
+  ateliers soit récompensés.
+
+* Epimac: Une collaboration est à l'étude pour que l'association Epimac
+  présente son domaine d'expertise dans le cadre de conférences.
+
+* Cristal: Une collaboration est à l'étude pour que l'association Cristal
+  présente son domaine d'expertise dans le cadre de conférences.
+
 
 \newpage
 
