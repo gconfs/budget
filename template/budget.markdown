@@ -241,13 +241,57 @@ ainsi que de mise en commun de ses documents importants.
 
 ## Frais de provisions
 
-* provisions: estimation des dépenses à effectuer au cours du semestre pour
-  assurer le déroulement des activités (location temporaire de matériel,
-  recrutement d'extérieurs pour un évènement, frais de déplacement pour des
-  intervenants...)
+### Introduction
 
-Sans surprise, chaque dépense doit être pertinente et justifiée.
+Les frais de provisions sont constitués de l'estimation des dépenses à
+effectuer au cours de l'année à venir afin d'assurer le bon déroulement des
+activités (location temporaire de matériel, recrutement d'extérieurs pour un
+évènement, frais de déplacement pour des intervenants, ...).
 
+Ces frais sont les plus difficilement prévisibles et peuvent être très
+variables d'une année à l'autre en fonction des évènements organisés.
+
+Pour cette année, ils ne concerneront que d'éventuels frais de déplacement pour
+des intervenants extérieurs à l'école ainsi que d'éventuels évènements internes
+à l'association.
+
+### Frais de déplacement - intervenants extérieurs
+
+Lors d'un invitation auprès de personnes extérieures à l'école (et au groupe
+Ionis) à faire des conférences dans nos murs, un minimum est de leur proposer
+de régler leurs éventuels frais de déplacement, ne pouvant rien leur proposer
+de plus.
+
+Cela permettrait d'éviter d'avoir à leur imposer la contrainte de payer eux
+mêmes leur déplacement pour une conférence qui ne leur rapporterait rien si ce
+n'est de la satisfaction personnelle.
+
+A l'heure actuelle, l'association n'a encore réussi à faire intervenir aucune
+personne extérieure à l'école, et nous estimons qu'une des raisons majeures à
+cet échec est l'absence de budget leur étant consacré.
+
+Une part du budget dédiée à ces intervenants permettrait à l'association de
+continuer à étendre ses activités ainsi que d'éventuellement mettre en place
+de nouveaux partenariats avec des personnes ou entreprises externes à l'école.
+
+### Evènements
+
+Les évènements incluant des frais de provisions sont des évènements internes à
+l'association, de type barbecue par exemple.
+
+Ils permettraient d'assurer une ambiance agréable et une meilleure cohésion au
+sein de l'association ainsi que d'éventuellement promouvoir l'association
+auprès de futurs membres.
+
+Ces frais concerneraient tout ce qui est achat de nourriture/boisson, location
+éventuelle de matériel, cautions, etc...
+
+### Conclusion
+
+Malgré le fait que ces frais ne soient pas à proprement dit vitaux pour
+l'association, il n'en demeure que subvenir à ceux ci seraient un bon moyen
+pour l'association de conserver une bonne entente ainsi que de s'étendre vers
+de nouvelles possibilités.
 
 \newpage
 
