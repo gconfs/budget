@@ -18,18 +18,6 @@ disponibles sur le site internet de l'association.
 
 ## Compte rendu des actions passées
 
-Décrire ce qui a été fait jusqu'à présent:
-
-* les évènements organisés
-    - joindre les fiches event si elles existent
-* les activités d'expansion:
-    - recrutement de nouveaux membres
-    - nouveau matériel
-    - nouveaux partenariats
-* les participations à la vie associative de l'école
-    - Forum des associations
-    - JPO
-
 L'association, inactive depuis plusieurs mois, a été redémarrée en septembre
 2012. Depuis, elle se présente avec un objectif double:
 
