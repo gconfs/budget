@@ -88,7 +88,7 @@ hébergement de documents et de sources, il ne permet néanmoins pas d'héberger
 la mise en place de ces ressources. Le site web, la FAQ et les supports de
 conférences doivent donc être hébergés sur un serveur dédié externe.
 
-#### Partenariats\
+#### Partenariats
 
 Afin de s'inscrire durablement dans la vie associative de l'école,
 l'association a commencé la mise en place de partenariats avec de nombreuses
@@ -124,29 +124,7 @@ Les partenariats suivants sont en cours d'étude:
 
 \newpage
 
-# Objectifs du prochain semestre
-
-Annoncer les objectifs à atteindre pour le semestre à venir:
-
-* Nouveaux évènements
-* Expansion de l'association
-* Participation à la vie associative
-
-À peu de choses près, le même format que pour le compte rendu des actions
-passées
-
-### Nouveaux évènements
-
-Lorem ipsum dolor sit amet
-
-### Expansion de l'association
-
-Lorem ipsum dolor sit amet
-
-\newpage
-
-# Ressources nécessaires
-
+# Objectifs futurs et ressources nécessaires
 ## Frais d'expansion
 
 ### Introduction
