@@ -112,6 +112,8 @@ Les partenariats suivants sont en cours d'étude:
 * Cristal: Une collaboration est à l'étude pour que l'association Cristal
   présente son domaine d'expertise dans le cadre de conférences.
 
+* Evolutek: Une collaboration est à l'étude pour que l'association Evolutek
+  présente son domaine d'expertise dans le cadre de conférences.
 
 \newpage
 
