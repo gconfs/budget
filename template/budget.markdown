@@ -16,6 +16,9 @@ ainsi que par des intervenants extérieurs, sur des thèmes techniques ou sur le
 monde du travail. D'autre part, des publications sous forme de tutoriels sont
 disponibles sur le site internet de l'association.
 
+L'association peut être contactée par mail sur `everyone@gconfs.fr`. Un site
+web est également disponible sur `www.gconfs.fr`.
+
 ## Compte rendu des actions passées
 
 L'association, inactive depuis plusieurs mois, a été redémarrée en septembre
