@@ -117,12 +117,12 @@ Les partenariats suivants sont en cours d'étude:
 
 ### Introduction
 
-Les frais fixes comprenennt tous les frais d'entretiens stables sur chaque
+Les frais fixes comprennent tous les frais d'entretiens stables sur chaque
 semestre (hébergement de serveur, nom de domaine, entretien du matériel,
 réapprovisionnement, ...).
 
-Ces frais sont, de manière inévitable, nécessaires à la perennité de
-l'association : ils visent à couvrir des dépenses engendrées par des choses
+Ces frais sont, de manière inévitable, nécessaires à la pérennité de
+l'association : ils visent à couvrir des dépenses engendrées par des éléments
 déjà en place et qui ne pourront pas continuer sans cet approvisionnement.
 
 Pour cette année, ces frais fixes ne concerneront que le nom de domaine et les
@@ -148,7 +148,7 @@ devraient pas aumgnenter (ou du moins de manière insignifiante) dans les année
 Les frais liés à l'hébergement d'un serveur sont des frais mensuels et
 indispensables à la survie de celui-ci. Actuellement, la partie hébergement
 concerne l'hébergement de notre site web, de notre comptabilité, de la FAQ
-Epita, ainsi que des supports de conférence, comme expliqué précédemment lors
+EPITA, ainsi que des supports de conférence, comme expliqué précédemment lors
 de la partie "activité d'expansion".
 
 Cependant, cette situation pose à l'heure actuelle de nombreux problèmes et
@@ -173,12 +173,12 @@ estimons que les coûts liés à cet hébergement serait d'environ 18€ TTC par
 
 Pour plus de précisions, nous nous tournerions vers un hébergement auprès de
 la compagnie OVH, de type Kimsufi KS2G dont vous pouvez retrouver toutes les
-spécification à l'adresse suivante : http://www.kimsufi.com/fr/.
+spécification à l'adresse suivante : `http://www.kimsufi.com/fr/`.
 
 ### Conclusion
 
 Pour conclure sur ces frais fixes, il est important de noter que ces frais sont
-les plus critiaques pour notre association : s'il ne sont pas subvenus,
+les plus critiques pour notre association : s'il ne sont pas subvenus,
 l'association pourrait perdre son principal moyen de communication (site web)
 ainsi que de mise en commun de ses documents importants.
 
@@ -239,8 +239,8 @@ Pour un total d'environ 400 personnes.
 
 Parmis ces nombreuses personnes, il est la plupart du temps difficile pour les
 gens effectuant le TP de dicerner les membres de l'association qui sont là pour
-les assister. Des tee-shirts seraient une manière simple et efficace de palier
-à ce problème, tout en gratifiant les conférenciers présents.
+les assister. Des tee-shirts seraient une manière simple et efficace de pallier
+ce problème, tout en gratifiant les conférenciers présents.
 
 #### Membres du bureau
 
@@ -259,11 +259,11 @@ mettre en valeur l'association.
 ### Conclusion
 
 Pour résumer ces frais d'expansion, il suffit de regarder les choses telles
-qu'elles sont à l'heure actuelle : GConfs est en pleine extension, le bureau à
-été renouvelé pour être plus dynamique est impliqués, les conférences se font
+qu'elles sont à l'heure actuelle : GConfs est en pleine expansion, le bureau a
+été renouvelé pour être plus dynamique et impliqués, les conférences se font
 plus nombreuses et plus conséquentes que les années précédentes.
 
-Afin de continuer cette extension et dans un but de toujours procurer de
+Afin de continuer cette expansion et dans un but de toujours procurer de
 meilleures conditions à nos conférenciers, de simples tee-shirts seraient les
 bienvenus pour le moment. Ces frais ont pour but d'être un investissement sur
 le futur de l'association.
