@@ -11,9 +11,9 @@
 
 GConfs est une association ayant pour but de mettre à la disposition de tous
 des informations concernant le monde de l'informatique. Pour cela,
-l'asosciation organise régulièrement des conférences, assurées par ses membres
-ainsi que par des inervenants extérieurs, sur des thèmes techniques ou sur le
-monde du travail. D'autre part, des publications sous forme de tutoriaux sont
+l'association organise régulièrement des conférences, assurées par ses membres
+ainsi que par des intervenants extérieurs, sur des thèmes techniques ou sur le
+monde du travail. D'autre part, des publications sous forme de tutoriels sont
 disponibles sur le site internet de l'association.
 
 ## Compte rendu des actions passées
@@ -63,14 +63,14 @@ actuellement disponible sur :`http://faq.gconfs.fr`
 Lors de la reprise de l'association, le travail des bureaux précédents a été
 perdu et le nouveau bureau a du repartir de rien sur tous les aspects. En
 effet, le travail précédent était auto hébergé par les précédents membres, et
-les supports de travail transitionnaient de manière privée par mail. Afin de
+les supports de travail transitaient de manière privée par mail. Afin de
 de centraliser ces informations, et de permettre une capitalisation des acquis
 pour les bureaux futurs, l'association a grandement travaillé sur la mise en
 place d'un espace de travail public où sont hébergés les supports des
 conférences, les squelettes de documents administratifs, les sources de la FAQ
-ainsi que du site web, contenant notamment tous les compte-rendus et procès
+ainsi que du site web, contenant notamment tous les comptes-rendus et procès
 verbaux de l'association. Cet espace est hébergé gratuitement sur un compte
-bitbucket public, à l'addresse suivante: `https://bitbucket.org/gconfs`.
+bitbucket public, à l'adresse suivante: `https://bitbucket.org/gconfs`.
 Cependant, il est important de noter que si bitbucket peut fournir un
 hébergement de documents et de sources, il ne permet néanmoins pas d'héberger
 la mise en place de ces ressources. Le site web, la FAQ et les supports de
@@ -140,7 +140,7 @@ rien à payer personnellement, de s'assurer qu'ils seront toujours payés pour
 les années à venir.
 
 A l'heure actuelle, les frais liés au nom de domaine sont de 8€ par an, et ne
-devraient pas aumgnenter (ou du moins de manière insignifiante) dans les années
+devraient pas augmenter (ou du moins de manière insignifiante) dans les années
 à venir.
 
 ### Hébergement d'un serveur
@@ -150,6 +150,9 @@ indispensables à la survie de celui-ci. Actuellement, la partie hébergement
 concerne l'hébergement de notre site web, de notre comptabilité, de la FAQ
 EPITA, ainsi que des supports de conférence, comme expliqué précédemment lors
 de la partie "activité d'expansion".
+
+Actuellement, le serveur est auto hébergé par un membre de l'association, et
+les frais liés sont de son initiative personnelle.
 
 Cependant, cette situation pose à l'heure actuelle de nombreux problèmes et
 n'est définitivement pas viable à long terme.
@@ -167,7 +170,7 @@ besoins actuels, et encore moins à ceux à venir.
 C'est pourquoi nous nous sommes tournés vers un hébergement externe, sur un
 serveur dédié, qui possède le seul et unique défaut d'avoir un coût non
 négligeable.
-Suite aux calculs de spécifications requises précédement évoqués, et à une
+Suite aux calculs de spécifications requises précédemment évoqués, et à une
 étude approfondie des différentes solutions actuellement sur le marché, nous
 estimons que les coûts liés à cet hébergement serait d'environ 18€ TTC par mois
 
@@ -213,7 +216,7 @@ Un des objectifs de l'association, qui n'est pour l'instant pas vraiment
 réalisé, est de faire venir des conférenciers extérieurs à l'école, afin de
 proposer des conférences toujours plus enrichissantes et tournées vers d'autres
 sujets que ceux habituellement abordés et qui répondent la plupart du temps à
-des besoins par rapport au cursus d'Epita.
+des besoins par rapport au cursus d'EPITA.
 
 Ainsi, faire venir des intervenants extérieurs permettrait de proposer un
 meilleur contenu, ainsi que d'intéresser un plus large public (autres écoles
@@ -221,7 +224,7 @@ d'Ionis, voir personnes extérieures à l'école).
 
 Une manière de gratifier ces intervenants pour peu de frais serait de
 simplement leur offrir un tee-shirt ou une chemise GConfs, ce qui permettrait
-en plus de promouvoir l'association à l'éxterieur lorsque ces dits extérieurs
+en plus de promouvoir l'association à l'extérieur lorsque ces dits extérieurs
 les porteraient.
 
 #### Conférenciers internes à l'association
@@ -237,8 +240,8 @@ Récemment :
 + 35 divers (membres VJN suite à un partenariat, autres promotions, etc...)
 Pour un total d'environ 400 personnes.
 
-Parmis ces nombreuses personnes, il est la plupart du temps difficile pour les
-gens effectuant le TP de dicerner les membres de l'association qui sont là pour
+Parmi ces nombreuses personnes, il est la plupart du temps difficile pour les
+gens effectuant le TP de discerner les membres de l'association qui sont là pour
 les assister. Des tee-shirts seraient une manière simple et efficace de pallier
 ce problème, tout en gratifiant les conférenciers présents.
 
@@ -249,7 +252,7 @@ bureau (6 personnes).
 
 En effet, ceux ci sont bien souvent présents lors des conférences et TPs
 associés, et sont donc concernés directement par la situation des conférenciers
-précédement expliquée.
+précédemment expliquée.
 
 De plus, ce sont bien souvent eux qui sont présents pour représenter
 l'association (exemple : forum des association les 13 Octobre 2012), porter de
@@ -303,7 +306,7 @@ Une part du budget dédiée à ces intervenants permettrait à l'association de
 continuer à étendre ses activités ainsi que d'éventuellement mettre en place
 de nouveaux partenariats avec des personnes ou entreprises externes à l'école.
 
-### Evènements
+### Évènements
 
 Les évènements incluant des frais de provisions sont des évènements internes à
 l'association, de type barbecue par exemple.
