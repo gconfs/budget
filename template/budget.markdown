@@ -334,7 +334,7 @@ de nouvelles possibilités.
 
 # Récapitulatif
 
-Ressources  Prix       Quantité    Total
+Ressources  Prix        Quantité    Total
 ----        ----        -----       ---
 NDD         8           1           8
 Hébergement 18          12          216
