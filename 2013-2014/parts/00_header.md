@@ -2,7 +2,7 @@
 \large{Association GConfs}
 % Président     - Paul *Dettorer*       \textsc{Hervot}   (hervot\_p - 66159)\
 Vice-Président  - Alexis  *Horgix*      \textsc{Chotard}  (chotar\_a - 65059)\
-Secrétaire      - Antoine *Zeletochoy*  \textsc{Lecubin}  (lecubi\_a - XXXXX)\
+Secrétaire      - Antoine *Zeletochoy*  \textsc{Lecubin}  (lecubi\_a - 66178)\
 Trésorier       - Kaci    *Bruce*       \textsc{Adjou}    (adjou\_k - 67006)
 % Année scolaire 2013-2014
 \addtolength{\hoffset}{-1cm}
