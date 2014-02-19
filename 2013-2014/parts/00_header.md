@@ -30,4 +30,3 @@ Trésorier       - Kaci    *Bruce*       \textsc{Adjou}    (adjou\_k - 67006)
 \cleardoublepage
 \pagenumbering{arabic}
 \newpage
-
