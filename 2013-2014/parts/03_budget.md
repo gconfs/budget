@@ -5,7 +5,7 @@
 Les frais fixes comprennent tous les frais d’entretiens stables sur
 chaque semestre (hébergement de serveur, nom de domaine, entretien du
 matériel, réapprovisionnement,...).\newline Ces frais sont, de manière
-inévitable, nécessaires à la pérennité de l’association : ils visent à
+inévitable, *nécessaires à la pérennité de l’association* : ils visent à
 couvrir des dépenses engendrées par des éléments déjà en place et qui ne
 pourront pas continuer sans cet approvisionnement.\newline Pour cette
 année, ces frais fixes ne concerneront que le nom de domaine et les
