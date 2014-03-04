@@ -2,17 +2,19 @@
 
 ## L'association GConfs
 
-GConfs est une association ayant pour but de provoquer et de faciliter
-le partage de connaissances en informatique. Pour cela, l’association
-organise régulièrement des conférences, assurées par ses membres ainsi
-que par des intervenants extérieurs, sur des thèmes techniques ou sur le
-monde du travail.
-La plupart de ces conférences peuvent être vues sur
-le [compte Dailymotion de
-l'association](http://www.dailymotion.com/gconfs).
 
-L'association compte actuellement une cinquantaine de membres, dont 21
-actifs :
+GConfs est une association ayant pour objectif de faciliter et d'encourager le
+partage de connaissances, aussi bien en informatique que dans d'autres
+domaines. Pour cela, l'association met à disposition de conférenciers tout un
+panel de services afin qu'ils n'aient à se soucier que de leur sujet et de ce
+qui les passionne.
+
+L'association organise également elle même des conférences, principalement
+techniques ou sur le monde du travail et ayant pour but d'enrichir le cursus
+par des thèmes s'y intégrant ou s'en éloignant.
+
+GConfs compte actuellement une cinquantaine de membres, dont 21
+particulièrement actifs :
 
 * Alexis 'Horgix' Chotard - ING2
 * Paul 'Dettorer' Hervot - ING1
@@ -31,7 +33,11 @@ actifs :
 * Héloisa 'mira' Vallerio - Info-Spé
 * Clément 'wxcafe' Hertling - Info-Sup
 * Quentin 'Underflow' de Laroussilhe - ING1
-* Jean-Baptiste De Biasio - Epitech 2
+* Jean-Baptiste 'JB' De Biasio - Epitech 2
 * Lucie 'lolitawxc' Mader - ING1
 * Stéphane 'Hibiscus' Lefebvre - ING1
 \newline
+
+Les membres ci-dessus sont les plus actifs mais l'association est également
+composée d'autre personnes actives selon les moments et que nous n'avons pas
+jugé utiles de nommer. Il s'agit principalement d'anciens élèves d'Epita.
