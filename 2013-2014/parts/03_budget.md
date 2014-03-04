@@ -97,10 +97,11 @@ w1070](http://www.grosbill.com/4-benq_w1070_-189337-tv_video-home_cinema_project
 
 ### Polos
 
-L'année dernière, une demande de budget a été formulée concernant des polos,
-400€ on été obtenus dans ce but, mais ce budget a été investi dans du matériel
-d'enregistrement, le bocal ne pouvant plus subvenir à nos besoins. Cette année,
-nous comptons donc commander les polos qui n'ont pas pu l'être l'année d'avant.
+L'année dernière, une demande de budget a été formulée concernant des T-shirts
+;  400€ on été obtenus dans ce but, mais ce budget a été investi dans du
+matériel d'enregistrement, le bocal ne pouvant plus subvenir à nos besoins.
+Cette année, nous avons plus réfléchis notre choix et nous tournons vers le
+fournisseur de Prologin.
 
 Nous nous sommes orientés vers Europresent, fournisseur de Prologin, le
 prix unitaire par polo est de 14,24€
