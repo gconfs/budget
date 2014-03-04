@@ -24,12 +24,15 @@ Tolmer
 
 ### Conférences prévues au second semestre
 
-* **C++** Extravagnza par Kévin 'Chewie' Sztern
+* **C++ Extravaganza** par Kévin 'Chewie' Sztern
 * **AVR** par Pierre 'ptishell' Surply
 * **Git Advanced** par Akim Demaille
-* **OpenSMTPd**
-* **FPGA dans le monde financier** par Richad Idris (EPITA 2004)
+* **OpenSMTPd** par Gilles Cheahad
+* **FPGA dans le monde financier** par Richad Idris
+* **Networking** par Clément 'wxcafe' Hertling
+* **Versioning** par Alexis 'Horgix' Chotard
 \newline
+
 Nous avons aussi quelques pistes afin de faire venir des conférenciers
 externes à l'association.
 
