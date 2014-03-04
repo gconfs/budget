@@ -160,7 +160,7 @@ destinées aux INFOSUP et INFOSPE.
 
 L'équipe d'assistants destinée aux ING1 encourage le partage de
 connaissances auprès de ces derniers via une bannière sur l'intranet et conseille
-vivement la présence de ces ceux-ci aux conférences techniques liéés à
+vivement la présence de ceux-ci aux conférences techniques liéés à
 leur cursus.
 
 ##### LaCity
