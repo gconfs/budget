@@ -11,7 +11,7 @@ La plupart de ces conférences peuvent être vues sur
 le [compte Dailymotion de
 l'association](http://www.dailymotion.com/gconfs).
 
-L'association compte actuellement une cinquantaine de membres, dont XX
+L'association compte actuellement une cinquantaine de membres, dont 21
 actifs :
 
 * Alexis 'Horgix' Chotard
@@ -30,5 +30,8 @@ actifs :
 * Alexis 'Animus' Descamps
 * Héloisa 'mira' Vallerio
 * Clément 'wxcafe' Hertling
+* Quentin 'Underflow' de Laroussilhe
+* Jean-Baptiste De Biasio
+* Lucie 'lolitawxc' Mader
+* Stéphane 'Hibiscus' Lefebvre
 \newline
-**Add moar people if needed**
