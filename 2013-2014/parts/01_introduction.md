@@ -40,4 +40,4 @@ particulièrement actifs :
 
 Les membres ci-dessus sont les plus actifs mais l'association est également
 composée d'autre personnes actives selon les moments et que nous n'avons pas
-jugé utiles de nommer. Il s'agit principalement d'anciens élèves d'Epita.
+jugé utile de nommer. Il s'agit principalement d'anciens élèves d'Epita.
