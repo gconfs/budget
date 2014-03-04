@@ -25,8 +25,9 @@ hébergement concerne l’hébergement de notre site web, de supports pour
 les conférences passées (slides, sujets de TP, etc..) et dans le futur
 l'hébergement des enregistrements des conférences.
 
-Nous possèdons depuis l'année dernière un serveur KS-2G chez OVH, les
-frais concernant son entretien sont de 18€ TTC (mensuels).
+La location d'un serveur dédié chez OVH a été entreprise grâce au budget de
+l'année dernière, il est maintenant nécessaire de le renouveler afin de garantir
+le maintien des services fournis par l'association.
 
 ## Frais d'expansion
 
@@ -46,7 +47,7 @@ et nécessaires pour le bon déroulement des conférences à venir.
 #### Introduction
 
 L'association s'est lancée, depuis septembre 2013, dans l'enregistrement
-et la rediffusion en live sur Dailymotion.  Les frais nécessaires ont
+et la rediffusion en live.  Les frais nécessaires ont
 été partiellement couverts par les restes du budget de l'an dernier,
 cependant la majorité des frais nécessaires à l'achat du matériel
 manquant doit être couvert par le budget de cette année.
@@ -98,5 +99,5 @@ w1070](http://www.grosbill.com/4-benq_w1070_-189337-tv_video-home_cinema_project
 
 *Bullshit to do*
 
-Nous nous sommes orientés vers Europrsent, fournisseur de prologin, le
+Nous nous sommes orientés vers Europresent, fournisseur de Prologin, le
 prix unitaire par polo est de 14,24€
