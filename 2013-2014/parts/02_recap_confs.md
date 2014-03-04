@@ -4,23 +4,22 @@
 
 Depuis septembre 2013 les conférences suivantes ont été organisées :
 
-* **Retour d'expérience d'un stagiaire chez Google** par Pierre 'delroth'
-Bourdon
-* **High Frequency Trading** par Julien 'snooze92' Lehuen
-* **OCaml** par Philemon 'PhilGekni' Gardet
-* **UNIX** par Paul 'Dettorer' Hervot, Clément 'wxcafe' Hertling et Kaci
-'Bruce' Adjou
-* **C#** par Raphaël 'Shugo' Boissel
-* **ML** par Théophile 'yroeht' Ranquet
-* **Bien Démarrer son Projet** par Valentin 'toogy' Iovene, Alexis 'Horgix'
-Chotard et Théophile 'yroeht' Ranquet
-* **Pixel Art** par Thomas 'bonhomme' Chassin et Pierre Guyot
-* **Graphics** par Raphaël 'Shugo' Boissel
-* **Graphics Avancée** par Raphaël  'Shugo' Boissel
-* **Physics** par Sébastien Crozet
-* **GNU Bison** par Théophile 'yroeht' Ranquet et Valentin 'nitnelave'
-Tolmer
-* **Chiffrement et Anonymat** par Nahim 'Naam' Elatmani et 'Genma'
+Conférence                                         Conférencier
+----------                                         ------------
+**Retour d'expérience d'un stagiaire chez Google** Pierre 'delroth' Bourdon
+**High Frequency Trading**                         Julien 'snooze92' Lehuen
+**OCaml**                                          Philemon 'PhilGekni' Gardet
+**UNIX**                                           Paul 'Dettorer' Hervot, Clément 'wxcafe' Hertling et Kaci 'Bruce' Adjou
+**C#**                                             Raphaël 'Shugo' Boissel
+**ML**                                             Théophile 'yroeht' Ranquet
+**Bien Démarrer son Projet**                       Valentin 'toogy' Iovene, Alexis 'Horgix' Chotard et Théophile 'yroeht' Ranquet
+**Pixel Art**                                      Thomas 'bonhomme' Chassin et Pierre Guyot
+**Graphics**                                       Raphaël 'Shugo' Boissel
+**Graphics Avancée**                               Raphaël  'Shugo' Boissel
+**Physics**                                        Sébastien Crozet
+**GNU Bison**                                      Théophile 'yroeht' Ranquet et Valentin 'nitnelave' Tolmer
+**Chiffrement et Anonymat**                        Nahim 'Naam' Elatmani et 'Genma'
+-----------                                        ------------
 
 ### Conférences prévues au second semestre
 
