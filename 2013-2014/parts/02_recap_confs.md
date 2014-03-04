@@ -159,8 +159,8 @@ destinées aux INFOSUP et INFOSPE.
 ##### ACU/YAKA
 
 L'équipe d'assistants destinée aux ING1 encourage le partage de
-connaissances auprès de ceux-ci via une bannière sur l'intranet et conseille
-vivement la présence de ces derniers aux conférences techniques liéés à
+connaissances auprès de ces derniers via une bannière sur l'intranet et conseille
+vivement la présence de ces ceux-ci aux conférences techniques liéés à
 leur cursus.
 
 ##### LaCity

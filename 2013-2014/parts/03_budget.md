@@ -104,4 +104,5 @@ Cette année, nous avons plus réfléchis notre choix et nous tournons vers le
 fournisseur de Prologin.
 
 Nous nous sommes orientés vers Europresent, fournisseur de Prologin, le
-prix unitaire par polo est de 14,24€
+prix unitaire par polo est de 14,24€, ce qui correspond à 576€ pour 40
+unités.
