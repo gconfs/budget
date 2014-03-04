@@ -1,6 +1,6 @@
 ## Compte rendu des actions passées
 
-### Conférences organisées
+### Les 13 conférences organisées
 
 Depuis septembre 2013 les conférences suivantes ont été organisées :
 
@@ -149,3 +149,24 @@ personnes assistant à la conférence de se restaurer à un prix
 raisonnable.
 
 \newpage
+
+##### ACDC/AOC
+
+Les assistants pour les classes préparatoires d'EPITA ont participé
+activement suite à un partenariat tacite aux TP sur les conférences
+destinées aux INFOSUP et INFOSPE.
+
+##### ACU/YAKA
+
+L'équipe d'assistants destinée aux ING1 encourage le partage de
+connaissances auprès de ceux-ci via une bannière sur l'intranet et conseille
+vivement la présence de ces derniers aux conférences techniques liéés à
+leur cursus.
+
+##### LaCity
+
+Nous avions eu l'année dernière l'occasion de collaborer avec LaCity
+lors d'un événement sur la finance dans le monde l'entreprise, nous
+avons poursuivi cet accord lors de la conférence Trading Haute Fréquence
+et lors d'une prochaine conférence concernant l'importance des cartes
+FPGA dans le monde du trading.
