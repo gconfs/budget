@@ -94,6 +94,9 @@ conférence.
 Nous avons opté pour le [Benq
 w1070](http://www.grosbill.com/4-benq_w1070_-189337-tv_video-home_cinema_projecteur?utm_source=shopping&utm_medium=cpc&utm_campaign=189337-video%20projecteur&utm_content=)
 
-### T-shirts / Polos / Chemises
+### Polos
 
+*Bullshit to do*
 
+Nous nous sommes orientés vers Europrsent, fournisseur de prologin, le
+prix unitaire par polo est de 14,24€
