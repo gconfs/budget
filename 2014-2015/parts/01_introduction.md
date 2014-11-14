@@ -13,30 +13,31 @@ L'association organise également elle même des conférences, principalement
 techniques ou sur le monde du travail et ayant pour but d'enrichir le cursus
 par des thèmes s'y intégrant ou s'en éloignant.
 
-GConfs compte actuellement une cinquantaine de membres, dont 21
+GConfs compte actuellement une cinquantaine de membres, dont 22
 particulièrement actifs :
 
-* Alexis 'Horgix' Chotard - ING3
-* Paul 'Dettorer' Hervot - ING2
-* Antoine 'Zeletochoy' Lecubin - ING2
-* Kaci 'Bruce' Adjou - Info-Spé
-* Ivan 'colona' Delalande - Ancien élève
-* Valentin 'toogy' Iovene - ING1
-* Pierre-Alexandre 'Areswar' Veyry - ING1
-* Charles 'Arys' Yaiche - Info-Spé
-* Thomas 'Bonhomme' Chassin - ING2
-* Antoine 'serialk' Pietri - ING2
-* Valentin 'nitnelave' Tolmer - ING2
-* Jean-Luc 'thiel' Bounthong - ING3
 * Alexis 'Animus' Descamps - ING1
-* Héloisa 'mira' Vallerio - ING1
-* Clément 'wxcafe' Hertling - Extérieur
-* Quentin 'Underflow' de Laroussilhe - ING2
-* Lucie 'lolitawxc' Mader - ING2
-* Stéphane 'Hibiscus' Lefebvre - ING2
-* Maël 'hatrix' le Garrec - Info-Spé
+* Alexis 'Horgix' Chotard - ING3
 * Antoine 'Pluggi' Bardoux - Info-Spé
+* Antoine 'Zeletochoy' Lecubin - ING2
+* Antoine 'serialk' Pietri - ING2
+* Charles 'Arys' Yaiche - Info-Spé
+* Clément 'wxcafe' Hertling - Extérieur
+* Guillaume 'Corwin' Doré - ING1
+* Héloisa 'mira' Vallerio - ING1
+* Ivan 'colona' Delalande - Ancien élève
+* Jean-Luc 'thiel' Bounthong - ING3
+* Kaci 'Bruce' Adjou - Info-Spé
+* Lucie 'lolitawxc' Mader - ING2
+* Maël 'hatrix' le Garrec - Info-Spé
 * Nicolas 'warlock' Salaün - ING2
+* Paul 'Dettorer' Hervot - ING2
+* Pierre-Alexandre 'Areswar' Veyry - ING1
+* Quentin 'Underflow' de Laroussilhe - ING2
+* Stéphane 'Hibiscus' Lefebvre - ING2
+* Thomas 'Bonhomme' Chassin - ING2
+* Valentin 'nitnelave' Tolmer - ING2
+* Valentin 'toogy' Iovene - ING1
 \newline
 
 Les membres ci-dessus sont les plus actifs mais l'association est également
