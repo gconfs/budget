@@ -51,11 +51,10 @@ et **nécessaires** pour le bon déroulement des conférences à venir.
 #### Projecteur
 
 Un problème **récurrent** a été la non disponibilité de projecteurs fonctionnels
-dans les salles où nous organisons des conférences.
+et le temps de réaction excessivement *long* pour leur réparation.
 Jusqu'à aujourd'hui nous avons pu nous débrouiller pour pallier ce problème
-grâce aux projecteurs du LSE et d'Antoine lecubin, nous souhaitons à terme
+grâce aux projecteurs du LSE et d'Antoine Lecubin, nous souhaitons à terme
 pouvoir être indépendants sur ce point.
 
-Nous avons opté pour le [Benq
-w1070](http://www.grosbill.com/4-benq_w1070_-189337-tv_video-home_cinema_projecteur?utm_source=shopping&utm_medium=cpc&utm_campaign=189337-video%20projecteur&utm_content=).
+Nous avons opté pour le [Optoma ML1000P](http://www.amazon.com/dp/B00GGGQG5K/ref=cm_sw_su_dp).
 
