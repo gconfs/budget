@@ -7,18 +7,20 @@
 'wxcafe' Hertling
 * **Python Scripting** par Paul 'dettorer' Hervot
 * **High Frequency Trading** par Julien 'snooze92' Lehuen
-* **Feedforward Neural Networks** par Valentin 'toogy' Iovene et Thibaud 'zehir'
-Michaud
-* **Facebook Tech Talk**
 
 ### Événements prévus
 
+* **Feedforward Neural Networks** par Valentin 'toogy' Iovene et Thibaud 'zehir'
+Michaud
+* **Facebook Tech Talk**
 * **C#** par Valentin 'toogy' Iovene et Quentin 'Neodyblue' Coelho
 * **Bien Démarrer son Projet** par 'Void', Alexis 'Horgix' Chotard, Charles
 'Arys' Yaiche, Alexis 'Animus' Descamps
 * **La nuit de l'info**
 
 Nous avons aussi quelques pistes afin de venir des conférenciers externes.
+
+#### Facebook Tech Talk
 
 ### Événements organisés
 

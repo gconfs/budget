@@ -15,8 +15,8 @@ frais d’hébergement d’un serveur et une assurance pour le local.
 
 Suite à une confusion **récurrente**, nous avons décidé de prendre le nom de
 domaine [gconf.fr](gconf.fr). Ce dernier redirige sur l'url correcte
-([gconfs.fr](gconfs.fr)). Les frais pour chaque nom de domaine sont de 8€ TTC
-annuels et ne devraient pas augmenter de façon significative.
+([gconfs.fr](gconfs.fr)). Les frais s'élèvent à 16€ TTC annuels et ne devraient
+pas augmenter de façon significative.
 
 ### Serveur dédié
 
@@ -32,9 +32,9 @@ fournis par l'association.
 
 ### Assurance
 
-GConfs et Epirev ont récupéré l'ancien local Prologin, afin d'assurer le
-matériel audio-visuel de l'association, nous devons assurer le local dans son
-entièreté. Les frais annuels s'élèvent à 330€ TTC.
+GConfs a récupéré l'ancien local Prologin, afin d'assurer le matériel
+audio-visuel de l'association, nous devons assurer le local dans son entièreté.
+Les frais annuels s'élèvent à 330€ TTC.
 
 ## Frais d'expansion
 
@@ -50,11 +50,24 @@ et **nécessaires** pour le bon déroulement des conférences à venir.
 
 #### Projecteur
 
-Un problème **récurrent** a été la non disponibilité de projecteurs fonctionnels
-et le temps de réaction excessivement *long* pour leur réparation.
-Jusqu'à aujourd'hui nous avons pu nous débrouiller pour pallier ce problème
-grâce aux projecteurs du LSE et d'Antoine Lecubin, nous souhaitons à terme
-pouvoir être indépendants sur ce point.
+Les problèmes suivants ont été rencontrés avec les projecteurs des salles que
+nous utilisons :
+* Le projecteur de l'amphi 4 et se coupe au bout de deux heures d'utilisation
+(problème également constaté lors des présentations ACU et de la LSE Summer Week
+2014)
+* Les projecteurs de certains amphis nécéssitent une télécommande pour
+fonctionner
+* Le projecteur de la VA105 est mal positionné
 
-Nous avons opté pour le [Optoma ML1000P](http://www.amazon.com/dp/B00GGGQG5K/ref=cm_sw_su_dp).
+Jusqu'à aujourd'hui nous avons pu nous débrouiller pour pallier ces problèmes
+grâce au projecteur d'Antoine Lecubin, nous jugeons qu'il est **important** que
+l'association aie son propre projecteur.
 
+Nous avons donc opté pour le [Optoma
+ML1500](http://www.ldlc.com/fiche/PB00172817.html).
+
+### Local
+
+#### Serrure
+
+#### Meubles
