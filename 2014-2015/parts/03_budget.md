@@ -33,8 +33,8 @@ fournis par l'association.
 ### Assurance
 
 GConfs et Epirev ont récupéré l'ancien local Prologin, afin d'assurer le
-matériel de l'association, nous devons assurer le local dans son entièreté.
-Les frais annuels s'élèvent à 330€ TTC.
+matériel audio-visuel de l'association, nous devons assurer le local dans son
+entièreté. Les frais annuels s'élèvent à 330€ TTC.
 
 ## Frais d'expansion
 

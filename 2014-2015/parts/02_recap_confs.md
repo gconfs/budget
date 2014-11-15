@@ -33,6 +33,7 @@ d'initiation à la programmation :
     * 24/10/2014
     * 27/10/2014
     * 28/10/2014
+* Participation au forum des Associations du 22/10/2014
 
 ### Activités d'expansion
 
