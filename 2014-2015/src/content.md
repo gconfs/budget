@@ -46,13 +46,32 @@ Les membres ci-dessus sont les plus actifs mais l'association est également
 composée d'autre personnes actives selon les moments et que nous n'avons pas
 jugé utile de nommer. Il s'agit principalement d'anciens élèves d'Epita.
 
+## Les nouveautés
+
+### Acquisitions matérielles
+
+Le budget de l'année passée nous a permis d'investir dans ce que nous avions
+annoncé, dont notamment :
+
+* Un ordinateur portable, nous permettant d'assurer la rediffusion des
+  conférences en live sans dépendre du matériel des membres de l'association
+* Une carte d'acquisition, afin de faciliter la vie des conférenciers tout en
+  leur permettant enfin de diffuser leurs vidéos et de faire des démonstrations
+  sur leur propre ordinateur
+
+### Local
+
+Prologin ayant déménagé, GConfs a eu le privilège de se voir attribuer leur
+ancien local, qui sera occupé en parallèle par Epirev, l'association de Réalité
+Virtuelle d'EPITA/EPITECH.
+
 ## Compte rendu des actions passées et conférences prévues
 
 ### Conférences organisées depuis le début de l'année scolaire 2014-2015
 
 * **Conférence d'introduction à Linux** par Guillaume 'Corwin' Doré et Clément
 'wxcafe' Hertling ; 63 personnes
-* **Python Scripting** par Paul 'dettorer' Hervot : 
+* **Python Scripting** par Paul 'dettorer' Hervot ; 160 personnes
 * **High Frequency Trading** par Julien 'snooze92' Lehuen ; 44 personnes
 
 ### Conférences prévues
@@ -69,21 +88,30 @@ externes.
 
 #### Facebook Tech Talk
 
+Le 1er août 2014, **Luisa Dunn** a contacté **GConfs** en tant que membre de la
+***"university recruitment team at Facebook"***, souhaitant organiser un
+Tech talk à EPITA.
+L'évènement sera basé autour d'une **démystification des entretiens Facebook**
+et d'une **présentation de projets développés à Facebook** par des ingénieurs.
+
+Le dossier monté pour cette évènement, contenant tous les détails nécessaires,
+se trouve en annexe de cette demande de budget.
+
 ### Événements organisés
 
 L'association a eu l'occasion de collaborer avec l'administration sur les
 événements suivants :
 
-* Présentation des projets de première année aux élèves d'INFOSUP :
+* **Présentation des projets de première année** aux élèves d'INFOSUP :
     * 22/09/2014
     * 29/09/2014
-* Participation aux JDMI (Journées de découverte des Métiers de l'Ingénieur)
+* Participation aux **JDMI** (Journées de découverte des Métiers de l'Ingénieur)
   sous la forme d'ateliers d'initiation à la programmation :
     * 23/10/2014
     * 24/10/2014
     * 27/10/2014
     * 28/10/2014
-* Participation au forum des Associations du 22/10/2014
+* Participation au **forum des Associations** du 22/10/2014
 
 ### Activités d'expansion
 
@@ -128,7 +156,7 @@ L'équipe d'assistants destinée aux ING1 encourage le partage de connaissances
 auprès de ces derniers via une bannière sur l'intranet et conseille vivement la
 présence de ceux-ci aux conférences techniques liées à leur cursus.
 
-Nous avons d'ailleurs eu le privilège d'être contacté par les ACU 2015 afin
+Nous avons d'ailleurs eu le privilège d'être contactés par les ACUs 2015 afin
 d'organiser des conférences Python et Ruby à destination des ING1 afin de poser
 des bases permettant à ceux-ci de bien démarrer leur suite de tests pour 42sh.
 
@@ -208,19 +236,38 @@ munir de notre propre projecteur.
   chaque évènement
 * Le projecteur de la VA105 est mal positionné et pixellisé
 
-Jusqu'à aujourd'hui nous avons pu nous débrouiller pour pallier ces problèmes
-grâce au projecteur du vice-président, Antoine Lecubin. Nous jugeons qu'il est
-**important** que l'association ne soit pas dépendante d'un de ses membres pour
-un point aussi crucial de notre activité.
+Jusqu'à aujourd'hui nous avons pu pallier ces problèmes grâce au projecteur du
+vice-président, Antoine Lecubin. Nous jugeons qu'il est **important** que
+l'association ne soit pas dépendante d'un de ses membres pour un point aussi
+crucial de notre activité.
 
 Nous souhaiterions donc opter pour un projecter [Optoma
 ML1500](http://www.ldlc.com/fiche/PB00172817.html).
 
 ### Local
 
+L'investissement du nouveau local ne va pas sans son aménagement et sa
+sécurisation, c'est pourquoi nous tâcherons ici de lister ce qui nous sera
+nécessaire afin d'assurer cet objectif.
+
 #### Serrure
 
+Comme évoqué à plusieurs reprises lors de changements de locaux, un changement
+de serrure est systèmatiquement **nécessaire**. Après avoir contacté un
+serrurier, nous avons estimé le coût d'un barillet de serrure ainsi que de 5
+clés à 69€.
+
 #### Meubles
+
+Étant une association composée d'étudiants tout en étant membre d'un organisme
+tel qu'EPITA/EPITECH, nous ne demandons pas de budget pour l'aménagement de
+notre nouveau local et nous reposerons sur notre capacité à nous arranger avec
+d'autres associations ainsi qu'avec nos propres moyens pour meubler le local.
+
+En revanche, nous apprécierions grandement la participation d'EPITA/EPITECH
+dans ce sens, que ce soit via le prêt de tables/chaises ou par un soutien lors
+de démarches auprès du Bocal pour obtenir des postes de travail et
+périphériques associés.
 
 # Récapitulatif
 
