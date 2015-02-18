@@ -265,6 +265,23 @@ De plus, avoir du matériel tel que celui-ci pourrait nous permettre de montrer
 nos compétences d'organisation d'évènements à de potentiels sponsors et nous
 permettre de nous étendre au delà d'ÉPITA / EPITECH.
 
+Ces micros de qualité professionnelle sont disponibles à 549.00€.
+
+### Adaptateurs
+
+Des adapatateurs divers et variés de bonne qualité doivent être achetés afin
+d'assurer la compatibilité des différents matériels entre eux, pour brancher
+le PC à la nouvelle table de mixage et y brancher les micros. Nous devons
+aussi être capables d'utiliser n'importe quel PC avec notre carte
+d'acquisition, pour ce faire nous avons besoin d'adaptateurs mDP -> DVI, VGA
+-> DVI, HDMI -> DVI, mHDMI -> DVI, DP -> DVI.
+
+Acheter tous ces adaptateurs de cette qualité nous permettra d'être
+polyvalents et de pouvoir accueillir n'importe quel conférencier muni de
+n'importe quelle machine.
+
+l'estimation du coût de ces différents adaptateurs est de 120€.
+
 ### Local
 
 L'investissement du nouveau local ne va pas sans son aménagement et sa
@@ -298,8 +315,9 @@ NDD             8         2           16
 Hébergement     12        12          144
 Projecteur      869.95    1           869.95
 Micros          549.00    2           1098.00
+Adaptateurs     12        10          120
 Serrure         100       1           100
 Assurance       330       1           330
 ----            ------    ----        ----
 
-Total : 2557.95€
+Total : 2677.95€
