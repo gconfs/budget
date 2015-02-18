@@ -54,8 +54,8 @@ jugé utile de nommer. Il s'agit principalement d'anciens élèves d'Epita.
 Le budget du semestre passé a été totalement investis dans le remplacement du
 matériel, dont notamment :
 
-* Une nouvelle table de mixage afin de remplacer l'ancienne qui venait de
-  mourir.
+* Une nouvelle table de mixage afin de remplacer l'ancienne suite à un
+  dysfonctionnement majeur.
 
 ### Local
 
@@ -202,13 +202,6 @@ Ce serveur est loué depuis le début de l'an dernier, il est maintenant
 **nécéssaire** de le renouveler afin de garantir le maintien des services
 fournis par et pour l'association.
 
-### Assurance
-
-GConfs possédant désormais un local, et comme convenu lors de la demande de
-budget de l'année dernière, une assurance est nécessaire pour le matériel
-(notamment audio-visuel) de l'association. Suite à un devis réalisé auprès
-d'AXA Assurances, les frais ont été estimés à 330€ TTC annuels.
-
 ## Frais d'expansion
 
 ### Introduction
@@ -317,7 +310,6 @@ Projecteur      869.95    1           869.95
 Micros          549.00    2           1098.00
 Adaptateurs     12        10          120
 Serrure         100       1           100
-Assurance       330       1           330
 ----            ------    ----        ----
 
 Total : 2677.95€
