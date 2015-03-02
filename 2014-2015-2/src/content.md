@@ -273,13 +273,65 @@ Acheter tous ces adaptateurs de cette qualité nous permettra d'être
 polyvalents et de pouvoir accueillir n'importe quel conférencier muni de
 n'importe quelle machine.
 
-l'estimation du coût de ces différents adaptateurs est de 120€.
+L'estimation du coût de ces différents adaptateurs est de 120€.
+
+### Trépieds
+
+Nos trépieds sont en mauvais état, celui qui tient la caméra ne fonctionne
+encore que parce que nous avons utilisé de la ficelle de cuisine pour le faire
+tenir debout, quant à celui du micro, il ne tient plus debout depuis l'an
+dernier. Il est évident que dans cette configuration il ne faudra pas
+longtemps avant que ce matériel ne soit complètement inutilisable.
+Pour la bonne continuité de l'organisation de nos évènements nous avons besoin
+de remplacer ces trépieds au plus vite afin de redevenir complètement
+opérationnels dans les plus brefs délais.
+
+Trépied : 60€
+
+### Sacs de transport
+
+Jusqu'à maintenant nous transportions le matériel dans un carton car nous
+n'avions pas le budget pour acheter des sacs à dos de qualité. Transporter le
+matériel entre le Kremlin-Bicêtre et Villejuif est devenu une gageure. De plus
+le carton a récemment rendu l'âme. Comme prendre un autre carton pour
+transporter plus de mille euros de matériel aux yeux de tous ici et à
+Villejuif n'est pas une bonne idée, nous sommes obligés d'acheter des sacs à
+dos résistants qui offrent de bons espaces de rangements et qui soient
+confortables afin de ne pas blesser les personnes portant le matériel.
+
+Sac de transport de matériel informatique : 70€
+
+### Table de mixage
+
+La table de mixage ayant subit un dysfonctionnement fatal, nous avons dû
+acheter une nouvelle table de mixage à 238€.
+
+### Carte son
+
+La carte son que nous utilisions n'était pas de bonne qualité et celà
+affectait la qualité du son sur le stream, de plus elle ne fonctionne plus.
+Jusqu'à aujourd'hui nous utilisions donc une carte son externe prêtée par
+notre Vice-trésorier, mais il a été obligé de la reprendre. Nous avons besoin
+d'une bonne [carte son
+externe](http://fr.creative.com/p/sound-blaster/sound-blaster-digital-music-premium-hd) pour pouvoir travailler efficacement.
+
+Carte son externe : 80€
 
 ### Local
 
 L'investissement du nouveau local ne va pas sans son aménagement et sa
 sécurisation, c'est pourquoi nous tâcherons ici de lister ce qui nous sera
 nécessaire afin d'assurer cet objectif.
+
+### Routeur Wi-Fi ou machine
+
+Afin de conduire les réunions dans de bonnes conditions, nous avons besoin
+d'un accès Internet sans fil dans le local qui nous permette d'avoir internet
+sans avoir à se netsouler, ce qui serait un gros plus pour nos potentiels 
+membres externes.
+
+Routeur Wi-Fi : 30€
+Ou machine du bocal avec une carte Wi-Fi.
 
 #### Serrure
 
@@ -302,14 +354,19 @@ périphériques associés.
 
 # Récapitulatif
 
-Ressources	Prix      Quantité    Total
-----		------    ----        ----
-NDD             8         2           16
-Hébergement     12        12          144
-Projecteur      869.95    1           869.95
-Micros          549.00    2           1098.00
-Adaptateurs     12        10          120
-Serrure         100       1           100
-----            ------    ----        ----
+Ressources	    Prix      Quantité    Total
+----		    ------    ----        ----
+NDD                 8         2           16
+Hébergement         12        12          144
+Projecteur          869.95    1           869.95
+Micros              549       2           1098
+Adaptateurs         12        10          120
+Trépieds            60        2           120
+Sacs                70        2           140
+Table de mixage     238       1           238
+Carte son           80        1           80
+Routeur Wi-Fi       30        1           30
+Serrure             100       1           100
+----                ------    ----        ----
 
-Total : 2677.95€
+Total : 2955.95€

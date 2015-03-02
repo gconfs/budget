@@ -1,6 +1,6 @@
 % \bigskip\bigskip\includegraphics[scale=0.50]{images/logo_gconfs.png}\
 \bigskip\bigskip\Huge{\bf{\textsc{Demande de budget 2015}}}\bigskip\
-\bigskip\includegraphics[scale=0.70]{images/logo_epita.png}\
+\bigskip\includegraphics[scale=0.50]{images/EPITA.png}\
 \bigskip\includegraphics[scale=0.30]{images/logo_epitech.png}
 % Responsable associations EPITA : Anne-Sophie Pachet\
 Responsable associations EPITECH : Benjamin Hoarau\bigskip\
