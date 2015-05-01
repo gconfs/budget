@@ -27,6 +27,10 @@ logo_%.png:
 	  wget 'http://horgix.fr/epita/logos/$@'; \
 	  mv $@ images/; \
 	fi
+	@if ! [ -e 'images/EPITA.png' ]; then \
+	  wget 'http://misc.poussif.eu/EPITA.png'; \
+	  mv 'EPITA.png' images/; \
+	fi
 
 %.png:
 	@if ! [ -d 'images/' ]; then mkdir 'images'; fi
